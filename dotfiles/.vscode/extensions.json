@@ -1,0 +1,50 @@
+{
+    "recommendations": [
+        "bierner.markdown-mermaid",
+        "dannysteenman.cloudformation-yaml-snippets",
+        "emmanuelbeziat.vscode-great-icons",
+        "esbenp.prettier-vscode",
+        "foxundermoon.shell-format",
+        "github.vscode-github-actions",
+        "GitHub.vscode-pull-request-github",
+        "golang.go",
+        "Gruntfuggly.todo-tree",
+        "hashicorp.terraform",
+        "Infracost.infracost",
+        "mechatroner.rainbow-csv",
+        "mhutchie.git-graph",
+        
+        "msazurermtools.azurerm-vscode-tools",
+        "ms-azure-devops.azure-pipelines",
+        "ms-azuretools.vscode-bicep",
+        "ms-azuretools.vscode-azureresourcegroups",
+        "ms-azuretools.vscode-docker",
+        "ms-azuretools.vscode-azureterraform",
+        "ms-dotnettools.vscode-dotnet-runtime",
+        "ms-kubernetes-tools.vscode-kubernetes-tools",
+
+        "ms-python.debugpy",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+
+        "ms-vscode-remote.remote-containers",
+        "ms-vscode-remote.remote-ssh",
+        "ms-vscode-remote.remote-ssh-edit",
+        "ms-vscode-remote.remote-wsl",
+        "ms-vscode.azure-account",
+        "ms-vscode.remote-explorer",
+        
+        "RapidAPI.vscode-rapidapi-client",
+        "rapidapi.vscode-services",
+        "redhat.vscode-yaml",
+        "richie5um2.vscode-sort-json",
+        "sdras.night-owl",
+        "shd101wyy.markdown-preview-enhanced",
+        "tamasfe.even-better-toml",
+        "tchayen.markdown-links",
+        "timonwong.shellcheck",
+        "Tyriar.sort-lines",
+        "yzhang.markdown-all-in-one",
+    ]
+
+}
